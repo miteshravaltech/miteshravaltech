@@ -43,5 +43,5 @@ Hands on experience with RESTful APIs and Angular Material.
 Combining creative design capabilities with technical prowess, I aim to deliver solutions that not only meet but exceed user and business expectations.
 
 Best Regards, <br>
-Jasmeen Virani <br>
-📞 +91 81284 85820 <br>
+Mitesh Raval <br>
+📞 +91 98242 38831 <br>
