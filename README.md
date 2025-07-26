@@ -1,4 +1,3 @@
-
 <H2> Web & Mobile App Developer - UI/UX </H2>
 I am a Full-stack web + Mobile App developer with 5+ years of experience and have the expertise to complete many projects as Technical Lead. I have very good experience working on full applications that require scalable architecture to design and develop, having worked on all stages like design, development to deployment with proven experiences in developing API services, User authorization, emails.
 
